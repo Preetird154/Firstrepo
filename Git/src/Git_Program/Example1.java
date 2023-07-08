@@ -5,6 +5,10 @@ public class Example1 {
 		int a=10, b=20;
 		int res=a+b;
 		System.out.println("The addition of "+a+ " and "+ b+" is: "+res);
+		
+		int res1=b-a;
+		System.out.println("The subtraction of "+a+ " and "+ b+" is: "+res1);
+		
 	}
 
 }
