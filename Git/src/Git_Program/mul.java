@@ -11,7 +11,7 @@ public class mul {
 		System.out.println(c1);
 		System.out.println("the multiplication is:" + c);
 		
-		System.out.println("Multiplication program");
+		
 	}
 
 }
