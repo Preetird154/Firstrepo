@@ -8,6 +8,10 @@ public class Division {
 		
 		res1=a+b;
 		System.out.println("Addition: "+res1);
+		
+		
+		res2=a*b;
+		System.out.println("Multiplication: "+res2);
 	}
 
 }
